@@ -1,5 +1,6 @@
 # practiceMyFirstHTML
 Class activity from week 1
+Final product: https://danthewebdevman.github.io/practiceMyFirstHTML/index.html
 
 * **Instructions:**
 
